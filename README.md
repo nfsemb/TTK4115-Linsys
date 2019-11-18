@@ -4,7 +4,7 @@
 In this course, we had one term prosject. I was in a group with two other students. The project counted 50% of our grade. Here's a brief description of the projects: 
 
 ## Helicopter lab
-The project was divided into four parts:
+The project was divided into six parts:
 
 * **PART I:** Mathematical Modeling
 * **PART II:** Monovariable Control
